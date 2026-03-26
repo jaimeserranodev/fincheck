@@ -2,7 +2,7 @@
   "name": "FinCheck – Salud Financiera",
   "short_name": "FinCheck",
   "description": "Analiza tu salud financiera en 2 minutos",
-  "start_url": "/",
+  "start_url": "https://jaimeserranodev.github.io/fincheck",,
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
